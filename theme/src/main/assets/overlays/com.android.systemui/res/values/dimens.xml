@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <dimen name="notification_material_shadow_rounded_rect_radius">@*common:dimen/noti_corners_shadow</dimen>
+    <dimen name="notification_material_rounded_rect_radius">@*common:dimen/noti_corners</dimen>
+    <dimen name="notification_material_rounded_rect_radius_negative">@*common:dimen/noti_corners-neg</dimen>
+
+    <dimen name="notification_padding">@*common:dimen/noti_y_space</dimen>
+    <dimen name="notifications_top_padding">@*common:dimen/noti_y_space</dimen>
+    <dimen name="z_distance_between_notifications">@*common:dimen/noti_y_space</dimen>
+    <dimen name="notification_side_padding">@*common:dimen/noti_x_space</dimen>
+
+    <dimen name="status_bar_header_height">@*common:dimen/header_height</dimen>
+    <dimen name="status_bar_header_height_expanded">@*common:dimen/header_height_expanded</dimen>
+
+    <dimen name="qs_tile_icon_size">@*common:dimen/qs_icon_size</dimen>
+    <dimen name="qs_tile_text_size">@*common:dimen/qs_text_size</dimen>
+
+    <dimen name="qs_brightness_padding_top">@*common:dimen/brightness_height</dimen>
+
+</resources>

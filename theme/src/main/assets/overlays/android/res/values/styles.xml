@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">@*common:color/noti_text</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Time" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/noti_time</item>
+        <item name="android:textSize">@*common:dimen/noti_time_size</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/noti_title</item>
+        <item name="android:textSize">@*common:dimen/noti_title_size</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Line2" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/noti_sec</item>
+    </style>
+
+    <style name="Theme.Material" parent="@*android:style/Theme.Material">
+        <item name="android:navigationBarColor">@*common:color/navbar_bg</item>
+    </style>
+    <style name="Theme.Material.Light" parent="@*android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">@*common:color/navbar_bg</item>
+    </style>
+
+
+</resources>

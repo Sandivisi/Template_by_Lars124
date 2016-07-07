@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="primary_material_dark">@*common:color/header_dark</color>
+    <color name="primary_dark_material_dark">@*common:color/header_dark</color>
+    <color name="bt_action_bar_background_grey">@*common:color/header</color>
+
+    <color name="ripple_material_dark">@*common:color/ripple</color>
+    <color name="ripple_material_light">@*common:color/ripple</color>
+    <color name="accent_material_light">@*common:color/sys_accent</color>
+    <color name="accent_material_dark">@*common:color/sys_accent</color>
+
+    <color name="bt_status_bar_brick">@*common:color/header_dark</color>
+    <color name="bt_status_bar_default">@*common:color/header_dark</color>
+    <color name="bt_status_bar_done">@*common:color/header_dark</color>
+    <color name="bt_status_bar_inbox">@*common:color/header_dark</color>
+    <color name="bt_status_bar_snoozed">@*common:color/header_dark</color>
+    <color name="bt_status_bar_white">@*common:color/header_dark</color>
+
+    <color name="bt_done_green">@*common:color/header</color>
+    <color name="bt_container_blue">@*common:color/header</color>
+    <color name="bt_snooze_yellow">@*common:color/header</color>
+
+    <color name="bt_default_ripple">@*common:color/ripple</color>
+
+    <color name="bt_empty_list_view_background_color_default">@*common:color/background_light</color>
+    <color name="bt_empty_list_view_done_background_color">@*common:color/background_light</color>
+    <color name="bt_empty_list_view_inbox_background_color">@*common:color/background_light</color>
+    <color name="bt_empty_list_view_upcoming_background_color">@*common:color/background_light</color>
+
+    <color name="bt_notification_highlight">@*common:color/icon</color>
+
+    <color name="done_text_color_dark_normal">@*common:color/highlight_text_light</color>
+    <color name="done_text_color_dark_disabled">@*common:color/highlight_text_light</color>
+
+    <color name="bt_item_list_authors_color">@*common:color/sec_text</color>
+    <color name="bt_item_list_authors_message_count_color">@*common:color/sec_text</color>
+    <color name="bt_item_list_subject_read">@*common:color/prim_text</color>
+    <color name="bt_item_list_unread">@*common:color/highlight_text_dark</color>
+
+</resources>

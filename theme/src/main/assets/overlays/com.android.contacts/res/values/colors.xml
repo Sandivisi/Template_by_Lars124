@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="actionbar_background_color">@*common:color/header</color>
+    <color name="contacts_accent_color">@*common:color/sys_accent</color>
+    <color name="contacts_theme_color_dark">@*common:color/header_dark</color>
+
+    <color name="contacts_theme_color">@*common:color/header</color>
+    <color name="primary_color_dark">@*common:color/header_dark</color>
+    <color name="primary_color">@*common:color/header</color>
+
+    <color name="floating_action_button_icon_color">@*common:color/white</color>
+
+
+</resources>
+

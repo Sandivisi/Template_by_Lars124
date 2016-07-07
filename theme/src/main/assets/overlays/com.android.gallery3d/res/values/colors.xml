@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="primary">@*common:color/header</color>
+    <color name="primary_dark">@*common:color/header_dark</color>
+	
+	<color name="albumset_label_background">@*common:color/background_dark</color>
+    <color name="albumset_label_title">@*common:color/highlight_text_light</color>
+    <color name="albumset_label_count">@*common:color/highlight_text_light</color>
+
+	<color name="filtershow_stateview_text">@*common:color/highlight_text_light</color>
+	<color name="filtershow_stateview_background">@*common:color/background_dark</color>
+
+	<color name="filtershow_stateview_selected_background">@*common:color/background_dark</color>
+    <color name="filtershow_stateview_selected_text">@*common:color/highlight_text_light</color>
+
+</resources>

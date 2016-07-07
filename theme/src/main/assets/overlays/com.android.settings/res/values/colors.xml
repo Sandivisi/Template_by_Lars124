@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="dashboard_background_color">@*common:color/background_dark</color>
+    <color name="ripple_material_dark">@*common:color/ripple</color>
+    <color name="ripple_material_light">@*common:color/ripple</color>
+
+    <color name="switchbar_background_color">@*common:color/header</color>
+    <color name="switch_accent_color">@*common:color/sys_accent</color>
+
+    <color name="text_color_black">@*common:color/prim_text</color>
+    <color name="text_color_secondary_text_material_light">@*common:color/sec_text</color>
+
+</resources>

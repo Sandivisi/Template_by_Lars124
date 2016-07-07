@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <dimen name="notification_text_size">@*common:dimen/noti_text_size</dimen>
+    <dimen name="notification_subtext_size">@*common:dimen/noti_text_sec_size</dimen>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="primary_dark">@*common:color/header_dark</color>
+    <color name="primary">@*common:color/header</color>
+
+    <color name="author_grey">@*common:color/sys_accent</color>
+    <color name="card_text">@*common:color/prim_text</color>
+
+    <color name="title_author_background">@*common:color/background_dark</color>
+    <color name="card_background_default">@*common:color/background_dark</color>
+
+    <color name="title_drawer_color">@*common:color/prim_text</color>
+    <color name="author_drawer_color">@*common:color/sec_text</color>
+
+    <color name="title_card_dark">@*common:color/highlight_text_light</color>
+    <color name="title_card_light">@*common:color/highlight_text_light</color>
+	
+</resources>

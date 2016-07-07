@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="primary">@*common:color/header</color>
+    <color name="primary_dark">@*common:color/header_dark</color>
+
+    <color name="ripple_material_dark">@*common:color/ripple</color>
+    <color name="ripple_material_light">@*common:color/ripple</color>
+
+    <color name="blue_button_ripple">@*common:color/ripple</color>
+    <color name="gray_button_ripple">@*common:color/ripple</color>
+    <color name="red_button_ripple">@*common:color/ripple</color>
+    <color name="white_button_ripple">@*common:color/ripple</color>
+    <color name="non_white_button_ripple">@*common:color/ripple</color>
+    <color name="snackbar_action_button_ripple">@*common:color/ripple</color>
+
+    <color name="solid_green">@*common:color/weis</color>
+    <color name="transparent_green">@*common:color/weis</color>
+
+    <color name="accent">@*common:color/sys_accent</color>
+    <color name="accent_dark">@*common:color/sys_accent</color>
+
+    <color name="compose_update_bg">@*common:color/icon</color>
+
+    <color name="accent_material_light">@*common:color/sys_accent</color>
+    <color name="accent_material_dark">@*common:color/sys_accent</color>
+    <color name="last_seen">@*common:color/highlight_text_dark</color>
+
+    <color name="secondary_text_default_material_light">@*common:color/sec_text</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sec_text</color>
+
+    <color name="incoming_conversation_bubble_background">@*common:color/bg_dg</color>
+    <color name="outgoing_conversation_bubble_background">@*common:color/bg_lg</color>
+    <color name="realtimechat_message_text_incoming">@*common:color/highlight_text_light</color>
+    <color name="realtimechat_message_text_outgoing">@*common:color/highlight_text_light</color>
+
+
+    <color name="last_seen_text_color">@*common:color/highlight_text_dark</color>
+    <color name="realtimechat_message_textlink">@*common:color/highlight_text_light</color>
+
+</resources>

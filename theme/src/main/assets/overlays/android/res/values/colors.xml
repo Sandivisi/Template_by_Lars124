@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="switch_thumb_normal_material_dark">@*common:color/switch_on</color>
+    <color name="switch_thumb_disabled_material_dark">@*common:color/switch_off</color>
+
+    <color name="ripple_material_light">@*common:color/ripple</color>
+    <color name="material_deep_teal_500">@*common:color/ripple</color>
+
+    <color name="notification_mtrl_big_picture_bg">@*common:color/noti_action_bg</color>
+    <color name="notification_mtrl_action_textcolor">@*common:color/noti_action_text</color>
+    <color name="notification_action_color_filter">@*common:color/noti_action_bt</color>
+    <color name="system_notification_accent_color">@*common:color/noti_bg</color>
+    <color name="notification_icon_bg_color">@*common:color/noti_action_bg</color>
+
+    <color name="primary_text_default_material_dark">@*common:color/prim_text</color>
+    <color name="secondary_text_default_material_dark">@*common:color/sec_text</color>
+
+
+</resources>

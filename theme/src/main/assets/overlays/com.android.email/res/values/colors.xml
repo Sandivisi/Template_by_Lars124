@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="primary_color">@*common:color/header</color>
+    <color name="primary_dark_color">@*common:color/header_dark</color>
+     <color name="colorAccent">@*common:color/sys_accent</color>
+
+     <color name="text_color_undo_notification">@*common:color/highlight_text_dark</color>
+
+</resources>

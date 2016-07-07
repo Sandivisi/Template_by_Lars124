@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="menu_apps_icon_color">@*common:color/icon</color>
+    <color name="menu_default_icon_color">@*common:color/icon</color>
+    <color name="menu_selected_icon_color">@*common:color/icon</color>
+    <color name="play_icon_default">@*common:color/icon</color>
+    <color name="play_icon_selected">@*common:color/icon</color>
+
+    <color name="play_apps_light">@*common:color/header</color>
+    <color name="play_apps_primary">@*common:color/header</color>
+    <color name="play_apps_primary_disabled">@*common:color/icon</color>
+    <color name="play_apps_recents">@*common:color/header</color>
+    <color name="play_apps_secondary">@*common:color/icon</color>
+
+    <color name="play_books_light">@*common:color/header</color>
+    <color name="play_books_primary">@*common:color/header</color>
+    <color name="play_books_primary_disabled">@*common:color/icon</color>
+    <color name="play_books_recents">@*common:color/header</color>
+    <color name="play_books_secondary">@*common:color/icon</color>
+
+    <color name="play_movies_light">@*common:color/header</color>
+    <color name="play_movies_primary">@*common:color/header</color>
+    <color name="play_movies_primary_disabled">@*common:color/icon</color>
+    <color name="play_movies_recents">@*common:color/header</color>
+    <color name="play_movies_secondary">@*common:color/icon</color>
+
+    <color name="play_multi_light">@*common:color/header</color>
+    <color name="play_multi_primary">@*common:color/header</color>
+    <color name="play_multi_primary_disabled">@*common:color/icon</color>
+    <color name="play_multi_recents">@*common:color/header</color>
+    <color name="play_multi_secondary">@*common:color/icon</color>
+
+    <color name="play_music_light">@*common:color/header</color>
+    <color name="play_music_primary">@*common:color/header</color>
+    <color name="play_music_primary_disabled">@*common:color/icon</color>
+    <color name="play_music_recents">@*common:color/header</color>
+    <color name="play_music_secondary">@*common:color/icon</color>
+
+    <color name="play_newsstand_light">@*common:color/header</color>
+    <color name="play_newsstand_primary">@*common:color/header</color>
+    <color name="play_newsstand_primary_disabled">@*common:color/icon</color>
+    <color name="play_newsstand_recents">@*common:color/header</color>
+    <color name="play_newsstand_secondary">@*common:color/icon</color>
+
+    <color name="status_bar_apps">@*common:color/header_dark</color>
+    <color name="status_bar_books">@*common:color/header_dark</color>
+    <color name="status_bar_movies">@*common:color/header_dark</color>
+    <color name="status_bar_multi">@*common:color/header_dark</color>
+    <color name="status_bar_music">@*common:color/header_dark</color>
+    <color name="status_bar_newsstand">@*common:color/header_dark</color>
+    <color name="status_bar_overlay">@*common:color/header_dark</color>
+
+
+    <color name="accent_color">@*common:color/sys_accent</color>
+    <color name="background_material_dark">@*common:color/sys_primary</color>
+    <color name="background_material_light">@*common:color/sys_primary</color>
+
+    <color name="primary_dark_material_dark">@*common:color/header_dark</color>
+    <color name="primary_dark_material_light">@*common:color/header_dark</color>
+    <color name="primary_material_dark">@*common:color/header</color>
+    <color name="primary_material_light">@*common:color/header</color>
+
+
+    <color name="action_bar_overlay_end">@*common:color/sys_accent</color>
+    <color name="action_bar_overlay_start">@*common:color/sys_accent</color>
+    <color name="accent_material_dark">@*common:color/sys_accent</color>
+    <color name="accent_material_light">@*common:color/sys_accent</color>
+
+
+</resources>

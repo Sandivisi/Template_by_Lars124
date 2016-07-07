@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Light">
+          <item name="android:colorPrimary">@*common:color/header</item>
+          <item name="android:colorPrimaryDark">@*common:color/header_dark</item>
+          <item name="android:colorAccent">@*common:color/sys_accent</item>
+          <item name="android:actionBarTheme">@*common:color/white</item>
+          <item name="android:navigationBarColor">@*common:color/navbar_bg</item>
+     </style>
+
+     <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+          <item name="android:titleTextStyle">@style/TitleBarTextColor</item>
+          <item name="android:background">@*common:color/header</item>
+          <item name="android:elevation">0dp</item>
+          <item name="android:textColor">@*common:color/white</item>
+     </style>
+
+     <style name="TitleBarTextColor" parent="@android:style/TextAppearance">
+          <item name="android:textSize">22sp</item>
+          <item name="android:textColor">@*common:color/white</item>
+     </style>
+
+     <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Body2">
+          <item name="android:textColor">@*common:color/highlight_text_dark</item>
+     </style>
+
+
+</resources>

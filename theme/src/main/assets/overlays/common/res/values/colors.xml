@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+<!-- SystemUI colors -->
+
+    <!-- Quick Settings -->
+    <color name="sys_accent">#81C784</color>
+    <color name="sys_primary">#455A64</color>
+    <color name="sys_secondary">#37474F</color>
+    <color name="qs_tile_on">#81C784</color>
+    <color name="qs_tile_off">#9b989d</color>
+    <color name="qs_text_color">#85B3EF</color>
+
+    <!-- Notifications -->
+    <color name="noti_bg">#F5F5F5</color>
+    <color name="noti_media_bg">#F5F5F5</color>
+    <color name="noti_title">#85B3EF</color>
+    <color name="noti_text">#455A64</color>
+    <color name="noti_sec">#546E7A</color>
+    <color name="noti_time">#85B3EF</color>
+    <color name="noti_number">#455A64</color>
+    <color name="noti_action_bg">#9b989d</color>
+    <color name="noti_action_bt">#9b989d</color>
+    <color name="noti_action_text">#FF5722</color>
+
+    <!-- Switch Button -->
+    <color name="switch_on">#81C784</color>
+    <color name="switch_off">#81C784</color>
+
+    <!-- Navbar BG + Ripple -->
+    <color name="navbar_bg">#2196F3</color>
+    <color name="navbar_ripple">#ffffff</color>
+
+    <!-- Checkboxes -->
+    <color name="checkbox">#455A64</color>
+
+    <!-- Ripple (on touch) -->
+    <color name="ripple">#2196F3</color>
+
+    <!-- Random -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+<!-- App colors -->
+
+    <!-- Action/Statusbar -->
+    <color name="header">#2196F3</color>
+    <color name="header_dark">#1976D2</color>
+
+    <!-- Text styles -->
+    <color name="prim_text">#555555</color>
+    <color name="sec_text">#9b989d</color>
+    <color name="highlight_text_light">#FF87CEFA</color>
+    <color name="highlight_text_dark">#F57C00</color>
+
+    <!-- Backgrounds -->
+    <color name="background_dark">#555555</color>
+    <color name="background_light">#9b989d</color>
+
+    <!-- Icons / Buttons -->
+    <color name="icon">@*common:color/highlight_text_dark</color>
+
+    <!-- FAB BG -->
+    <color name="fab_bg">@*common:color/header</color>
+
+    <!-- Bottombar BG -->
+    <color name="bottombar_bg">@*common:color/header</color>
+
+</resources>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+<!-- SystemUI dimens -->
+
+    <!-- Quick Settings -->
+    <dimen name="header_height">60.0dip</dimen>
+    <dimen name="header_height_expanded">116.0dip</dimen>
+    <dimen name="noti_y_space">4.0dip</dimen>
+    <dimen name="noti_x_space">8.0dip</dimen>
+    <dimen name="noti_corners">2.0dip</dimen>
+    <dimen name="noti_corners-neg">-2.0dip</dimen>
+    <dimen name="noti_corners_shadow">0.0dip</dimen>
+
+    <dimen name="qs_icon_size">24.0dip</dimen>
+    <dimen name="qs_text_size">12.0sp</dimen>
+
+    <dimen name="brightness_height">6.0dip</dimen>
+
+    <!-- Notifications -->
+    <dimen name="noti_title_size">16.0sp</dimen>
+    <dimen name="noti_text_size">14.0sp</dimen>
+    <dimen name="noti_text_sec_size">12.0sp</dimen>
+    <dimen name="noti_time_size">10.0dip</dimen>
+
+
+<!-- App dimens -->
+
+    <!-- Vertical divider -->
+    <dimen name="vert_div">1.0dip</dimen>
+
+</resources>

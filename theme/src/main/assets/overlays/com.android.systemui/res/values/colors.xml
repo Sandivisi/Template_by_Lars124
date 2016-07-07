@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="system_primary_color">@*common:color/sys_primary</color>
+    <color name="system_secondary_color">@*common:color/sys_secondary</color>
+    <color name="system_accent_color">@*common:color/sys_accent</color>
+
+
+    <color name="notification_guts_title_color">@*common:color/noti_title</color>
+    <color name="notification_guts_text_color">@*common:color/noti_text</color>
+    <color name="notification_guts_btn_color">@*common:color/noti_bg</color>
+    <drawable name="notification_number_text_color">@*common:color/noti_number</drawable>
+
+    <color name="notification_legacy_background_color">@*common:color/noti_bg</color>
+    <color name="notification_material_background_color">@*common:color/noti_bg</color>
+    <color name="notification_material_background_dimmed_color">@*common:color/noti_bg</color>
+    <color name="notification_material_background_low_priority_color">@*common:color/noti_bg</color>
+    <color name="notification_material_background_media_default_color">@*common:color/noti_media_bg</color>
+    <color name="notification_ripple_untinted_color">@*common:color/ripple</color>
+    <color name="notification_ripple_color_low_priority">@*common:color/ripple</color>
+    <color name="notification_ripple_tinted_color">@*common:color/ripple</color>
+
+
+    <color name="navbutton_ripple_color">@*common:color/navbar_ripple</color>
+
+
+
+    <color name="qs_text">@*common:color/qs_text_color</color>
+    <color name="qs_tile_text">@*common:color/qs_text_color</color>
+
+
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="BannerTitleText" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="RealTimeChat.ConversationList.LastMessageInvitePrefix" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="RealTimeChat.ParticipantHeader.ParticipantCount" parent="@android:style/TextAppearance.Material">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="RealTimeChat.Message.TimeSince" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@*common:color/orange_light</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="RealTimeChat.ConversationList.TimeSince" parent="@android:style/TextAppearance.Material">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="ToolbarSubtitle" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">8.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@*common:color/orange_light</item>
+    </style>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<color name="action_bar_background_color">@*common:color/header</color>
+	<color name="accent_color">@*common:color/sys_accent</color>
+
+	<color name="checked_text_color">@*common:color/highlight_text_dark</color>
+	<color name="checked_list_item_color">@*common:color/highlight_text_dark</color>
+	<color name="ampm_text_color">@*common:color/highlight_text_dark</color>
+
+	<color name="metadata_text_color">@*common:color/highlight_text_dark</color>
+	<color name="annotation_title_color">@*common:color/highlight_text_dark</color>
+
+	<color name="secondary_text_disabled_material_light">@*common:color/sec_text</color>
+	<color name="secondary_text_default_material_dark">@*common:color/sec_text</color>
+	<color name="primary_text_disabled_material_light">@*common:color/prim_text</color>
+	<color name="primary_text_default_material_dark">@*common:color/prim_text</color>
+
+	<color name="primary_color">@*common:color/header</color>
+	<color name="primary_color_dark">@*common:color/header_dark</color>
+	<color name="primary_dark_material_dark">@*common:color/header_dark</color>
+	<color name="active_action_bar_background_color">@*common:color/header</color>
+	<color name="keep_theme_color">@*common:color/header</color>
+    <color name="keep_theme_color_dark">@*common:color/header_dark</color>
+
+	<color name="scrimmed_browse_status_bar_color">@*common:color/header_dark</color>
+	<color name="secondary_secondary_status_bar_color">@*common:color/header_dark</color>
+	<color name="browse_secondary_status_bar_color">@*common:color/header_dark</color>
+
+	<color name="trash_action_bar_background_color">@*common:color/header</color>
+	<color name="trash_status_bar_color">@*common:color/header_dark</color>
+
+	<color name="ripple_material_dark">@*common:color/ripple</color>
+	<color name="ripple_material_light">@*common:color/ripple</color>
+
+
+	<color name="swipe_refresh_color1">@*common:color/icon</color>
+	<color name="swipe_refresh_color2">@*common:color/icon</color>
+	<color name="swipe_refresh_color3">@*common:color/icon</color>
+	<color name="swipe_refresh_color4">@*common:color/icon</color>
+
+
+</resources>

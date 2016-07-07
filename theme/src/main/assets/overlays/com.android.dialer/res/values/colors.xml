@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+    <color name="actionbar_background_color">@*common:color/header</color>
+    <color name="actionbar_underline">@*common:color/header</color>
+    <color name="dialer_theme_color">@*common:color/header</color>
+    <color name="dialer_theme_color_dark">@*common:color/header_dark</color>
+
+    <color name="primary_text_color">@*common:color/prim_text</color>
+    <color name="secondary_text_color">@*common:color/sec_text</color>
+
+    <color name="searchbox_text_color">@*common:color/highlight_text_dark</color>
+    <color name="searchbox_hint_text_color">@*common:color/highlight_text_dark</color>
+
+    <color name="floating_action_button_touch_tint">@*common:color/white</color>
+
+    <color name="call_log_missed_call_highlight_color">@*common:color/highlight_text_dark</color>
+    <color name="call_log_voicemail_highlight_color">@*common:color/highlight_text_dark</color>
+
+</resources>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Credits @ Lars124 | Lars Waechter -->
+
+<resources>
+
+    <color name="action_bar_background">@*common:color/header</color>
+    <color name="status_bar_background">@*common:color/header_dark</color>
+    <color name="accent_material_dark">@*common:color/sys_accent</color>
+    <color name="accent_material_light">@*common:color/sys_accent</color>
+
+    <color name="ripple_material_dark">@*common:color/ripple</color>
+    <color name="ripple_material_light">@*common:color/ripple</color>
+
+    <color name="host_background">@*common:color/background_dark</color>
+
+    <color name="compose_empty_fg">@*common:color/fab_bg</color>
+    <color name="compose_item_bg">@*common:color/fab_bg</color>
+    <color name="compose_location_list_item_bg">@*common:color/fab_bg</color>
+    <color name="compose_panel_bg">@*common:color/fab_bg</color>
+    <color name="compose_shadow">@*common:color/fab_bg</color>
+
+    <color name="bt_toastbar_button">@*common:color/fab_bg</color>
+    <color name="bt_toastbar_shadow">@*common:color/fab_bg</color>
+
+    <color name="quantum_grey900">@*common:color/bottombar_bg</color> <!-- Bottombar !-->
+
+    <color name="square_green">@*common:color/header</color>
+    <color name="square_green_light">@*common:color/header</color>
+    <color name="square_green_dark">@*common:color/header_dark</color>
+    <color name="quick_collect_header_background">@*common:color/header</color>
+
+    <color name="collexion_learn_more_button_bg">@*common:color/header</color>
+    <color name="collexion_learn_more_create_collexion_bg">@*common:color/header</color>
+    <color name="collexion_learn_more_illustration_page_bg">@*common:color/header</color>
+
+    <color name="quantum_lightblue700">@*common:color/header_dark</color> <!-- Collections !-->
+    <color name="quantum_lightblue500">@*common:color/header</color>
+
+    <color name="text_gray_accessible_on_grey200">@*common:color/highlight_text_light</color>
+    <color name="text_grey_accessible_on_grey200">@*common:color/highlight_text_light</color> <!-- host_bg text !-->
+
+    <color name="text_blue">@*common:color/highlight_text_dark</color>
+    <color name="blue_4">@*common:color/highlight_text_dark</color>
+    <color name="text_red">@*common:color/highlight_text_dark</color>
+
+
+</resources>
