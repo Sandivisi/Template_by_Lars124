@@ -7,10 +7,11 @@ Each value has its own description, so you can easily see what you're changing.
 You can use this theme template for free as long as you give credits when you publish a theme based on this template.
 
 Introduction:
-1. Import this template in Android Studio
-2. Open the following folder: "Template_by_Lars124/theme/src/main/assets/overlays"
-3. Enter your own values in colors.xml and dimens.xml
-4. Install your theme
+1. Import this template in Android Studio (Folder: "Template_by_Lars124)
+2. Update Gradle if required
+3. Open the following folder: "Template_by_Lars124/theme/src/main/assets/overlays"
+4. Enter your own values in colors.xml and dimens.xml
+5. Install your theme
 
 Contact:
 Lars Waechter
