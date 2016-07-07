@@ -1,4 +1,6 @@
-Welcome to the Cyanogen Theme Template! This guide will explain how to create a basic theme project, import your art, and compile an installable theme file ready for submission. We’re excited to see what you create, so let’s go!
+* Welcome to the Cyanogen Theme Template by Lars124! This is a customized theme which includes already theming codes. It's based on the original one
+
+This guide will explain how to create a basic theme project, import your art, and compile an installable theme file ready for submission. We’re excited to see what you create, so let’s go!
 
 ## Things You’ll Need ##
 

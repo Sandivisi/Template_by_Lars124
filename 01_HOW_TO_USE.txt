@@ -1,0 +1,22 @@
+Welcome to the CM Theme Template by Lars124 / Lars Waechter.
+
+This template includes theming codes for several system and third party apps. For example for the action- or statusbar.  
+You can modify their colors and styles by changing the colors.xml and dimens.xml in "common" folder.
+Each value has its own description, so you can easily see what you're changing.
+
+You can use this theme template for free as long as you give credits when you publish a theme based on this template.
+
+Introduction:
+1. Import this template in Android Studio
+2. Open the following folder: "Template_by_Lars124/theme/src/main/assets/overlays"
+3. Enter your own values in colors.xml and dimens.xml
+4. Install your theme
+
+Contact:
+Lars Waechter
+lawaendel@goooglemail.com
+
+_______________________
+Changelog[1.0]:
+- Initial release
+
