@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_dark">@*common:color/header_dark</color>
+    <color name="bar_light">@*common:color/header</color>
+    <color name="brand">@*common:color/sys_accent</color>
+    <color name="dialog_dark">@*common:color/background_dark</color>
+    <color name="dialog_light">@*common:color/background_light</color>
+    <color name="icon_dark">@*common:color/white</color>
+
+</resources>
